@@ -1,0 +1,3 @@
+export const STAKE_CONTRACT_ADDRESS = "0x01A01E8B862F10a3907D0fC7f47eBF5d34190341";
+
+export const Pid = 0
