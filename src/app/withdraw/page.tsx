@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion';
 import { useStakeContract } from "../../hooks/useContract";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Pid } from "@/config/consts.ts";
+import { Pid } from "@/config/consts";
 import { useAccount, useWalletClient } from "wagmi";
 import { formatUnits, parseUnits } from "viem";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
